@@ -7,7 +7,10 @@ book:
   date: "5/17/2024"
   chapters:
     - index.qmd
+    - reading.qmd
   page-navigation: true
+  downloads: pdf
+number-depth: 2
 
 # bibliography: references.bib
 
@@ -16,6 +19,7 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+toc-depth: 4
 
 
 

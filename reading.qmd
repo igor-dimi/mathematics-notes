@@ -1,0 +1,978 @@
+---
+title: "Reading List"
+---
+
+## Problem Solving 
+
+### Introductory
+
+#### Polya
+
+* Mathematics and Plausible Reasoning Vol 1 - Induction and Analogy in Mathematics. Polya
+* Mathematics and Plausibe Reasoning Vol 2 - Patterns of Plausible Inference. Polya
+* How to Solve It - A New Aspect of Mathematical Method. Polya
+* Mathematical Discovery - On Understanding, Learning, and Teaching Problem Solving. Polya
+
+#### Teaching Math
+
+* Guide to Teaching Puzzle-based Learning. Meyer III, et al
+* How to Teach Mathematics (3rd ed). Krantz
+* Ahmes' Legacy - Puzzles and the Mathematical Mind. Marcel Danesi
+* An Anthropology of PUzzles. Danesi
+
+#### Higgins
+
+* Mathematics for the Curious. Higgins
+* Mathematics for the Imagination. Higgins
+* Nets, Puzzles, and Postmen - an Exploration of Mathematical Connections. Higgins
+
+
+
+### Problem-Solving and Mathematical Thinking
+
+* Ants, Bikes, and Clocks. William Briggs
+* Problem-solving Through Recreational Mathematics. Averbach, Chein
+* Discovering Mathematics - The Art of Investigation. Gardiner
+* A Mathematical Mosaic - Patterns & Problem-Solving. Ravi Vakil
+* Exploring Mathematics - Problem-solving and Proof. Grieser
+* Mathematical Thinking - Problem-Solving and Proofs (2nd ed). D'Angelo, West
+* Proofs and Refutations. Imre Lakatos
+* Wearing Gauss's Jersey. Hathout
+* Mathematical Problem Solving. Schoenfield
+* How to Solve Problems. Wickelgren
+* Mathematical Problems - An Essay on Their Nature and Importance. Smorynski
+* Thinking Mathematically. Mason, Burton
+* Techniques of Problem Solving. Krantz
+* Essentials of Mathematical Thinking. Krantz
+* Mathematical Labyrinths - Pathfinding. Boris Pritsker
+* Expanding Mathematical Toolbox: Interweaving Topics, Problems, and Solutions. Boris Pritsker
+
+
+#### Math-olympiad Oriented
+
+* The Art and Craft of Problem Solving. Zeitz
+* Problem-solving Through Problems. Larson
+* Mathematics as problem Solving (2nd ed). Soifer
+* Problem-solving Strategies. Engel
+* Winning Solutions. Lozansky, Rousseau
+* Principles of Mathematical Problem Solving. Erickson
+* Mathematical Olympiad Challenges (2nd ed). Andreescu, Gelca
+
+#### Puzzle-books, and Problem Collections
+
+* Mathematical Puzzles - A Connoisseur's Collection. Winkler
+* Wheels, Life, and Other Mathematical Amusements. Gardner
+* Hexaflexagons, Probability Paradoxes, and the Tower of Hanoi. Gardner
+* Origami, Eleusis, and the Soma Cube. Gardner
+* Cows in the Maze and Other Mathematical Explorations. Stewart
+* The Magical Maze - Seeing the World Through Mathematical Eyes. Stewart
+* Math Hysteria - Fund and Games with Mathematics. Stewart
+* Mathematical Puzzling. Gardiner
+* Mathematical Mind Benders. Winkler
+* Sink or Float? - Thought Problems in Math and Physics. Kendig
+* Problems for Methematicians, Young and Old. Paul R. Halmos
+* Which Way Did the Bicycle Go - and Other Intriguing Mahtematical Mysteries. Konhauser, Velleman, Wagon
+* 100 Great Problems of Elementary Mathematics - Their History and Solution. Doerrie
+* Professor Higgins' Problem Collection. Higgins
+* Aha! Solutions. Martin Erickson
+* Mathematical Diamonds. Honsberger
+* Riddles in Mathematics. Northrop, Van Nostrand
+
+### Algorithmic Problem Solving and Computational Thinking
+
+* Algorithmic Problem Solving. Backhouse
+* Algorithmic Puzzles. Levitin, Levitin
+* Puzzles, Paradoxes, and Problem Solving - An Introduction to Mathematical Thinking. Reba, Shier
+* The Power of Computational Thinking - Games, magic and puzzles to help you become a computational thinker. Curzon, McOwan
+* Conjuring with Computation - A Manual of Magic and Computing for Beginners. Curzon, McOwan
+
+#### Estimation, Soft Problem-solving Skills, Math in Everyday Life
+
+* Mathematics in Everyday Life. John Haigh
+* Towing Icebergs, Falling Dominoes, and Other Adventures in Applied Mathematics. Robert B Banks
+* Guesstimation - Solving the World's Problem on the Back of a Cocktail Napkin. Weinstein, Adam
+* Guesstimation 2.0 - Solving the World's Problem on the Back of a Cocktail Napkin. Weinstein
+* Street-fithging Mathematics - The Art of Educated Guessing and Opportunistic Problem Solving. Mahajan
+* Strength in Numbers: Discovering the Joy and Power of Mathematics in Everyday Life. Sherman K Stein
+* The Invisible Power of Mathematics: The Pervasive Impact of Mathematical Engineering in Everyday Life. Samaey, Vandewalle
+* Conceptual Blockbusting - A Guide to Better Ideas. James L. Adams
+* Rapid Viz - A New Method for the Rapid Visualization of Ideas. Hanks, Belliston
+* Design it Yourself. Hansk, Belliston, Edwards
+* The Universal Traveler - A Soft-Systems Guide to Creativity, Problem-Solving, & the Process of Reaching Goals. Koberg, Bagnall
+* Experiences in Visual Thinking. McKim
+* Applied Imagination - Priciples and Procedures of Creative Thinking. Osborn
+* Wake Up Your Creative Genius. Hanks, Parry
+* Synectics - The Development of Creative Capacity. Gordon
+* The Metaphorical Way of Learning * Knowing - Applying Synectics to Sensitivity and Learning Situations. Gordon
+
+
+### General Math Books 
+
+* Mathematics and Logic. Kac & Ulam
+* Mathematics -The Science of Patterns. Devlin
+* Mathematics - The Man Made Universe. Stein
+* Invitation to Mathematics. Konrad Jacobs
+* Uses of Infinity. Zippin
+* The Enjoyment of Mathematics - Selections from Mathematics for the Amateur. Rademacher, Toeplitz
+* Mathematics - From the Brith of Numbers. Jan Gullberg
+* Mathematics for the Million. Hogben
+* The Pleasures of Counting. Koerner
+* The Search for Pattern. Sawyer
+* Mathematicians Delight. Sawyer
+* A Path to Modern Mathematics. Sawyer
+* Concepts of Modern Mathematics. Ian Stewart
+* Mathematical Vistas - From a Room With Many Windows. Hilton, Holton, Pedersen
+* A Mathmeatical Tapestry - Demonstrating the Beautiful Unity of Mathematics. Hilton, Pedersen
+* The Role of Mathematics in Science. Schiffer, Bowden
+* Mathematical Methods in Science. Polya
+* Ingenuity in Mathematics. Honsberger
+* A Mathematicians Lament - How School Cheats Us Out of Our Most Fascinating and Imaginative Art. Paul Lockhart
+* Arithmetic. Paul Lockhart
+* Measurement. Paul Lockhart
+* The Art of the Infinite - The Pleasures of Mathematics. Kaplan, Kaplan
+* Astronomer Priest and Ancient Mariner. Hogben
+* Mathematics - From the Brith of Numbers. Gullberg
+* Alice in Wonderland - A Student's Guide to the Enjoyment of Higher Mathematics. Baylis, Haggarty
+* The Concept of Number: From Quaternions to Monads and Topological Fields. Artmann
+
+
+### Proofs
+
+* The Book of Proof. Hammack
+* Proofs - A Long-Form Mathematics Textbook. Cummings
+* Reading, Writing, and Proving - A Closer Look at Mathematics. Daepp, Gorkin
+* Charming Proofs - A journey Into Elegant Mathematics. Alsina, Nelsen
+* Mathematical Proofs - A Transition to Advanced Mathematics. Chartrand, Polimeni, Zhang
+* How to Prove it - A Structured Approach. Velleman
+
+### Practical Mathematical Models (Physical Objects)
+
+* Mathematical Models. Cundy
+* Designing and Making. Sawyer
+
+## Symmetry
+
+### General, Intro
+
+* Symmetry Rules - How Science and Nature Are Founded on Symmetry. Joe Rosen
+* Symmetry, Shape, and Space - An Introduction to Mathematics Through Geometry. Kinsey, Moore
+* Symmetry - Cultural-historical and Ontological Aspects of Science-Arts Relations, The Natural and Man-Made World in an Interdisciplinary Approach. Darvas
+* Manifold Mirrors - The Crossing Paths of the Arts and Mathematics. Felipe Cucker
+* Symmetry - A Journey Into the Patterns of Nature. Sautoy
+* Symmetry. Walser
+* Symmetry Discovered. Rosen
+* The Equation That Couldn't Be Solved - How Mathematical Genius Discovered the Language of Symmetry. Mario Livio
+* Connections - The Geometric Bridge Between Art and Science. Jay Kappraff
+* Symmetry and the Monster - One of the greateset Quests of Mathematics. Ronan
+* Fearful Symmetry - is God a Geometer? Ian Stewart, Martin Golubitsky
+* Symmetry - Unifying Human Understanding. Hargittai
+* Beyond Measure - A Guided Tour Through Nature, Myth, and Number. Jay Kappraff
+* Symmetry - A Unifying Concept. Hargittai, Hargittai
+* Symmetry and the Beautiful Universe. Lederman
+
+### Golden Ration Specific
+
+* The Divine Proportion - A Study in Mathematical Beauty. Huntley
+* Der Goldene Schnitt. Beutelspacher, Petri
+* The Golden Ratio - The Story of Phi, The World's Most Astonishing Number. Mario Livio
+* the Golden Ratio - The Divine Beauty of Mathematics. Gary B. Meisner
+* The Golden Section. Hans Walser
+
+### Physical, Chaos, Fractals
+
+* Chaos and Fractals - New Frontiers of Science (2nd ed). Peitgen, Juergens, Saupe
+* Fractals, Chaos, Power Laws - Minutes from an Infinite Paradise
+* Symmetry and Complexity - The Spirit and Beauty of Nonlinear Science. Mainzer
+* The Comprehensible Cosmos - Where do the Laws of Physics Come From? Stenger
+* Lawas and Meta-laws of nature: Conversation Laws and Symmetries. Marc Lange
+* Similarities in Physics. Shive, Weber
+*  Perpetual Motion - Electrons and Atoms in Crystals. Alec T Stewart
+* Symmetry in Chaos - A Search for Pattern in Mathematics, Art, and Nature (2nd ed). Field, Golubitsky
+* Complexity - A Guided Tour. Melanie Mitchell
+* Symmetries in Physics - Philosophical Reflections. ed Brading, Castellani
+* Classification, Symmetry, and the Periodic Table. William B Jensen
+* Asymmetry: The Foundation of Information. Scott J. Muller
+* The Fabric of the Cosmos - Space, Time, and the Texture or Reality. Brian Greene
+* The Ghost in the Atom. ed Davies, Brown
+* Information and Its Role in Nature. Roederer
+
+#### Fractals Specific
+
+* Fractals - A Very Short Introduction. Falconer
+* Chaos and Fractals - An Elementary Introduction. Feldman
+* The Fractal Geometry of Nature. Mandelbrot
+* Fractals and Chaos - An Illustrated Course. Addison
+* Fractals for the Classroom Part One - Introduction to Fractals and Chaos. Peitgen, Juergens, Saupe
+* Introduction to Fractals and Chaos. Crownover
+* Chaos, Bifurcations, and Fractals Around Us - A Brief Introduction. Szepmlinka-Stupnicka
+* Chaotic Dynamics - An Introduction Based on Classical Mechanics. Tel, Gruiz
+* Chaotic Dynamics - Fractals, Tilings, and Substitutions. Goodson
+* Measure, Topology, and Fractal Geometry. Edgar
+* Fractal Geometry - Mathematical Foundations and Applications. Falconer
+* Exploring Randomness. Chaitin
+
+
+### Group Theory, Algebra, Mathematical
+
+* Symmetries. Johnson
+* Algebra - Abstract and Concrete. Goodman
+* Differential Equations - Their Solution Using Symmetries. Stephani, Maccallum
+* Equivalence, Invariants, and Symmetry. Olver
+
+### Visual, Design, Solid Geometry
+
+* Logic and Design - In Art, Science, and Mathematics. Krome Barrat
+* Fragments of Inifnity - Kaleidoscope of Math and ARt. Ivars Peterson
+* Visual Symmetry. Hargittai, Hargittai
+* Geometry of Design - Studies in Proportion and Composition. Kimberly Elam
+* The Geometry of Art and Life. Matila Ghyka
+* A Practical Handbook of Geometrical Composition and Design. Matila Ghyka
+* The Elements of Dynamic Symmetry. Jay Hambridge
+* The Beautiful Necessity - Seven Essays on Theosophy and Architecture. Claude Bragdon
+* The Geometrical Foundation of Natural Structure - A Source Book of Design. Robert Williams
+* Order in Space - A Design Source Book. Keith Critchlow
+
+### Analogy
+
+* Models and Analogies in Science. Mary Hesse
+* Surfaces and Essences - Analogy as the Fuel and Fire of Thinking. Douglas Hofstadter, Emmanuel Sander
+* The Metaphorical Way of Learning & Knowing - Applying Synectics to Sensitivity and Learning Situations. Gordon, Poze
+
+### Alternative
+
+* The Myth of Invariance - The Origin of the Gods, Mathemateics and Music From the Rg Veda to Plato. Ernest G McClain
+* Philomath - The Geometric Unification of Science and Art Through Number. Grant, Ghannam
+* Quadrivium - The Four Classical Liberal Arts of Number, Geometry, Music & Cosmology. Keith Critchlow
+* Mathematics Useful for Understanding Plato. Theon of Smyrna
+
+## Geometry
+
+### Constructive Geometry
+
+* Drawing Geometry. John Allen
+* Ruler & Compass - Practical Geometric Constructions. Andrew Sutton
+* Exploring Classical Greek Construction Problems with Interactive Geometry Software. Meskens, Tytgat
+* Construction of Polygons. Duerer
+* Geometric Constructions. Martin
+
+#### Design & Compositoin
+
+* Geometrical Composition and Design. Ghyka
+* Geometry of Design - Studies in Proportion and Composition. Elam
+
+#### Engineering Graphics
+
+* Geometric and Engineering Drawing (4th ed). Kenneth Morling
+
+### Classical Foundations 
+
+* Geometry - A Highschool Course. Lang, Murrow
+* Geometry (2nd ed). Harold R Jacobs
+* Geometry Revisited. Coxeter, Greitzer
+* Geometry. Gelfand
+
+### Broad Classical & Early Modern Overview
+
+* Classical Geometry - Euclidean, Transformational, Inversive, and Projective. Leonard, Lewis, Liu, Tokarsky
+* Geometry: Euclid and Beyond. Robin Harsthorne
+* Geometry (2nd ed). Brannan, Esplen, Gray
+* The Four Pillars of Geometry. Stillwell
+* Continious Symmetry - from Euclid to Klein. Banker, Howe
+* Plane and Solid Geometry. Aarts
+* The Geometric Viewpoint - A Survey of Geometries. Sibley
+* Geometry - Plane and Fancy. Singer
+* A Survey of Geometry (2nd ed). Eves
+* The Foundations of Geometrey and the Non-Euclidean Plane. Martin
+* Geometry - A Comprehensive Course. Dan Pedoe
+* Geometry and The Imagination. Hilbert, Cohn-Vossen
+
+### Tranformational & Projective Geometry
+
+* Geometric Transfomrations I, II, III. Yaglom
+* Transformational Plane Geometry. Umble, Han
+* Projective Geometry: From Foudnations to Applications. Beutelspacher, Rosenbaum
+* Geometrische Perspektive. Rehbock
+
+### Surfaces, Differential Geometry & Modern Bridges
+
+* The Shape of Space (3rd ed). Weeks
+* The Geometry of Curves. Rutter
+* Geometry of Surfaces. Stillwell
+* Geometry. Audin
+* Euler's Gem - The Polyherdron Formula and the Brith of Topology. Richeson
+* Geometry and Topology. Reid, Szendroi
+
+### Conceptual Supplements & Other Topics
+
+* Conics and Cubics - A Concrete Introduction to Algebraic Curves. Robert Bix
+* Complex Numbers and Geometry. Hahn
+* Journey into Geometries. Coxeter, Stillwell
+
+## Discrete Mathematics
+
+### General
+
+* Mathematical Structures for Computer Science - Discrete Mathematics and Its Applications. Gersting
+* Discrete Mathematics for Computer Science. Golovnev
+* Diskrete Mathematik fuer Einsteiger - Mit Anwendungen in Technik und Informatik. Beutelspacher, Zchiegner
+* Discrete Mathematics for Computer Science - An Example-Based Introduction. Jon Pierre Fortney
+* Introduction to Mathematical Structures and Proof. Gerstein
+* Discrete Mathematics. Chartrand, Zhang
+* Discrete Mathematics and its Applications. Rosen
+* Discrete and Combinatorial Mathematics. Grimaldi
+* Discrete Mathematics. Johnsonbauch
+* Discrete Mathemetics for Computer Science. David Liben-Nowell
+* Discrete Mathematics and Functional Programming. VanDrunen
+* Concrete Mathematics. Knuth, Graham
+
+### Combinatorics 
+
+#### Older Intro
+
+* Mathematics of Choice or How to Count Without Counting. Ivan Niven
+* Introduction to Combinatorics (1972). Berman, Fryer
+* Principles of Combinatorics (1971). Berge
+
+#### General Intro
+
+
+* Introductory Combinatorics. Brualdi
+* Combinatorics Through Guided Discovery. Bogart
+* Applied Combinatorics (3rd ed). Roberts, Tesman
+* Introduction to Combinatorics. Martin J Erickson
+* Counting - the Art of Enumerative Combinatorics. George E Martin
+* How to Count - An Introduction to Combinatorics and Its Applications. Beeler
+* A Walk Through Combinatorics - An Introductin to Enumeration and Graph Theory. Miklos Bona
+* Applied Combinatorics. Alan Tucker
+
+#### Advanced 
+
+* Combinatorial Mathematics (has solution manual). Douglas B West
+* Aspects of Combinatorics - A wide-randing Introduction. Victor Bryant
+* Combinatorics - Topics, Techniques, Algorithms. Peter Cameron
+
+#### Math Olympiad & Problem Oriented
+
+* Applied Combinatorics with Problem Solving. Jackson, Thoro
+* Combinatorics - A Problem Oriented Approach. Daniel A Marcus
+* Principles and Techniques of Combinatorics. (has solution manual) Chuan-Chong, Khee-Meng  
+* Problem-Solving Methods in Combinatorics - An Approach to Olympiad Problems. Pablo Soberon
+* Combinatorics - A Problem-based Approach. Mladenovic
+* A Path to Combinatorics for Undergraduates - Counting Strategoes. Andreescu, Feng
+* Combinatorics. Vilenkin
+* Geometric Etudes in Combinatorial Mathematics. Soifer
+
+### Graph Theory
+
+#### General, Intro
+
+* Graphs and Their Uses. Ore
+* Graph Theory - A Problem-oriented Approach. Daniel A Marcus
+* Graphen fuer Einsteiger. Nitzche
+* A First Course in Graph Theory. Chartrand, Zheng
+* Graph Theory - an Introduction to Proofs, Algorithms, and Applications. Saoub
+* A First Look at Graph Theory. Clark, Holton
+* Introduction to Graph Theory (2nd ed). (has sol manual). Douglas West
+* Graph Theory with Applications. Bondy
+
+#### Algorithmic
+
+* Algorithmic Graph Theory. Gibbons
+* Algorithmic Graph Theory. McHugh
+
+#### Conceptual, Supplementary
+
+* The Fascinating World of Graph theory. Chartrand, Zhang
+* Nets, PUzzles, and Postmen - an Exploration of Mathematical Connections. Peter M Higgins
+
+### Number Theory
+
+* Number Theory - A Historical Approach. John J Watkins
+* Elementary Number Theory & its Applications (6th ed). Rosen
+* Elementary Number theory. Jones, Jones
+* Elementary Number Theory in Nine Chapters (2nd ed). Tattersall
+* Recreations in the Theory of Numbers. Albert H Beiler
+* A Friendly Introduction to Number Theory. Silverman
+* A Guide to Elementary Number Theory. Dudley
+
+#### Computational, Programming
+
+* Elementary Number Theory: Primes, Congruences, and Secrets - A Computational Approach with Sagemath. Stein
+* Number Theory in Context and Interactive. Karl-Dieter Crisman
+* Primes and Programming - An Introduction to Number Theory with Computing. Peter Giblin
+
+
+#### Conceptual, Supplementary
+
+* From Zero to Infinity - What makes Numbers Interesting. Constance Reid
+* Das Kleine Buch der Zahlen - Vom Abzaehlen bis zur Kryptographie. Peter M Higgins
+* The Book of Numbers. Conway, Guy
+
+
+### Crytpography / Crytpology 
+
+* Introduction to Cryptography with Open Source Software. Alasdair McAndrew
+* Understanding Cryptography - A Textbook for Students and Practitioners. Paar, Pelzl
+* Cryptology. Albert Beutelspacher
+
+#### Cryptanalysis
+
+* Decrypted Secrets - Methods and Maxims of Cryptology. Bauer
+* Elementary Cryptanalysis. Sinkov
+* Cryptanalysis - A Study of Ciphers and their Solution. Helen Fouche Gaines
+
+#### Applied Cryptography / Cybersecurity
+
+* Implementing Cryptography Using Python. Shannon W Bray
+* Full Stack Python Security - Cryptography, TLS, and attack Resistance. Dennis Byrne
+* Cracking Codes with Python - An Introduction to Building and Braking Ciphers. Sweigart
+
+#### Coding Theory
+
+* Introduction to Cryptography with Coding Theory (2nd ed). Trappe, Washington
+* Codes - An Introduction to Information, Communication, and Cryptography. Norman L Biggs
+
+### Mathmematical Logic
+
+#### General
+
+* Proof and Disproof in Formal Logic - An Introduction for Programmers. Richard Bornat
+* Logic and Structure. Dirk van Dalen
+* Logical Labyrinths. Smullyan
+* Mathematical Logic. Joseph Mileti
+* Computability and Logic (5th ed). Boolos, Burgess, Jeffrey
+* The Mathematics of Logic - a Guide to Completeness Theorems and Their Applications. Richard Kaye
+
+#### Computational
+
+* Modelling Puzzles in First Order Logic. Adrian Groza
+* Logic for Applications. Nerode
+* The Computer Modelling of Mathematical Reasoning. Bundy
+
+#### Intuitionistic
+
+* On the Meanings of the Logical Constants and the Justifications of the Logical Laws. Per Martin-Loef
+
+### Set Theory
+
+* Set Theory for Computer Science. Glynn Winskel
+* Logic, Induction and Sets. Thomas Forster
+* Set Theory. Derek Goldrei
+
+## Abstract Algebra
+
+
+### Intro
+
+* Concrete Approach to Abstract Algebra. Sawyer
+* Concrete Algebra - With a View Toward Abstract Algebra. McKay
+* Sets, Groups, and Mappings - An Introduction to Abstract Mathematics. Hwang
+* Algebra and Geometry. Beardon
+* Integers, Polynomials, and Rings. Irving
+
+
+### Core
+
+* Contemporary Abstract Algebra. Gallian
+* Abstract Algebra - An Interactive Approach. William Paulsen
+* Abstract Algebra - An Inquiry-based Approach. Hodge, Schlicker, Sunstrom
+* Abstract Algebra - Structures and Applications. Stephen Lovett
+* Abstract Algebra - A First Course. Stephen Lovett
+* Introduction to Abstract Algebra. Jonathan D R Smith
+* Abstract Algebra - A Gentle Introduction. Mullen, Sellers
+
+### With Applications
+
+* Abstract Algebra with Applications. Terras
+* Concrete Abstract Algebra. From Numbers to Groebner Bases
+* Introduction to Applied Algebraic Systems. Reilly
+
+### Next Steps, Alternative
+
+* Abstract Algebra - An Introduction. Hungerford
+* Algebra - Notes From the Underground. Aluffi
+* Algebra: Chapter 0. Aluffi
+* Visual Group Theory. Nathan Carter
+* Universal Algebra. Burris, Sankappanavar
+
+
+## Lienar Algebra
+
+### Basic, Intro
+
+* An Engineering Approach to Linear Algebra. W W Sawyer
+* Linear Aglebra (4th ed). Jim Hefferon
+* Linear Algebra and Geometry. Cuoco et al
+* Linear Algebra and Its Applications. Lay, Lay, McDonald
+* Linear Aglebra Done Right. Sheldon Axler.
+* Introduction to Linear Algebra. Strang
+* Introduction to Linear and Matrix Algebra. Nathaniel Johnston
+* Linear Algebra. Meckes, Meckes
+* Linear Algebra - A Modern Introduction (4th ed). Poole
+* Linear Algebra with Applications. Otto Bretscher
+* A Modern Introduction to Linear Algebra. Henry Ricardo
+* Linear Algebra - Geometry and Transformation. Bruce Solomon
+* Practical Linear Algebra - A Geometry Toolbox (4th ed). Farin, Hansford
+* Linear Algebra - Concepts and Applications. Bogacki
+
+### Linear Algebra with CAS
+
+* Linear Algebra - Theory, Intuition, Code (python & matlab). Cohen
+* Linear Algebra and its Applications with R. Yoshida
+
+### With Applications
+
+* Applied Linear Algebra and Matrix Analysis. Thomas S Shores
+* Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares. Boyd, Vandenberghe
+* Matrix Analysis and Applied Linear Algebra. Meyer
+* Applied Linear Algebra. Olver, Shakiban
+* Matrix Methods - Applied Linear Algebra and Sabermetrics (4th ed). Bronson, Costa
+* Linear Algebra and its Applications. Peter Lax
+* Linear Algebra and Learning from Data. Gibert Strang
+* Linear Algebra and Matrix Analysis for Statistics. Benerjee, Roy
+
+### Second Course, Advanced
+
+* Advanced Linear and Matrix Algebra. Nathaniel Johnston
+* A Second Course in Linear Algebra. Garcia, Horn
+
+### Numerical LA 
+
+* Numerical Linear Algebra - An Introduction. Wendland
+* Applied Numerical Linear Algebra. Hager
+
+
+## Analysis
+
+### Intro, First Steps
+
+* Numbers and Functions (2nd ed). Burn
+* Limits, Limits Everywhere. Applebaum
+* Numbers, Sequences, and Series. Hirst
+* Guide to Analysis. Mary F Hart
+* Infinite Processes - Background to Analysis. Gardiner
+* Calculus by and for Young People. Don Cohen
+
+### Core Track
+
+* Analysis. P E Kopp
+* Elementary Analysis - The Theory of Calculus. Ross
+* A First Course in Mathematical Analysis. Brannan
+* Mathematical Analysis - A Straightforward Approach. Binmore
+* Introduction to Real Analysis. Bartle, Sherbert
+* Real Mathematical Analysis. Pugh
+* A First Course in Analysis. Pedrick
+* Mathematical Analysis - An Introduction. Browder  
+  *includes: topology, function spaces, diffable maps, measures, integration, manifolds, multilinear algebra etc*
+
+*Later*: Books by Lackzovich, and Zorich (Russia)
+
+### Advanced
+
+* Measure, Integral and Probability. E Kopp
+
+### With Applications
+
+* Real Analysis and Applications. Davidson, Donsig
+
+
+## General Applied Math
+
+* Advanced Engineering Mathematics. Dennis G Zill
+* Advanced Engineering Mathematics. Kreyszig
+* Advanced Engineering Mathematics. Greenberg
+* Introduction to Applied Mathematics. Sirovich
+* Mathematical Methods in the Physical Sciences. Mary L Boas
+
+### Mathematical Methods for Physicists
+
+* Mathematical Methods for Physicists (5th ed). Arfken, Weber
+* The Road to Reality. Penrose
+
+### Mathematical Modelling
+
+* Modeling and Simulation in Python. Allen B Downey
+* A Programmer's Introduction to Mathematics. Jeremy Kun
+* Introduction to the Foundations of Applied Mathematics. Holmes
+* An Invitation to Applied Mathematics - Differential Equations, Modeling, and Computation. Chicone
+
+### Fourier Analysis
+
+* Fourier Analysis with Applications. Filtering, Numerical Computation, Waveletts. Gasquet, Witomski
+
+## Topology and Metric Spaces
+
+### Topology
+
+#### Elements of Abstract Analysis & Set Theory
+
+* Real Analysis with Point-Set Topology
+* The Foudnations of Analysis: A Straightforward Introduction - Book 2 Topological Ideas. Binmore
+* Elements of Abstract Analysis. Searcoid
+* Classic Set Theory. Goldrei
+
+#### Intro
+
+* Topological Spaces. Buskes, Rooij
+* First Concepts of Topology. Chinn, Steenrod
+* A Guide to Topology. Krantz
+* Introduction to Topology. Mendelson
+* A Topological Aperitif. Huggett, Jordan
+
+#### Core Track
+
+* Introduction to Metric & Topological Spaces. Sutherland
+* Topology Through Inquiry. Starbird, Su
+* Basic Topology. Armstrong
+* Essential Topology. Martin D Crossley
+* Topology (2nd ed). Munkres
+
+#### Metric Spaces
+
+* Metric Spaces. Michael O Searcoid
+* Metric Spaces - Iteration and Application. Victor Bryant
+
+
+#### Visual, Intuitive, Alternative
+
+* Shape of Space (3rd ed). Jeffrey R Weeks
+* Flatland. Edwin Abott
+* Intuitive Topology. Prasolov
+* Experiments in Topology. Stephen Barr
+
+---
+
+
+## Single and Multivariable Calculus
+
+### Single Variable Calculus
+
+* A First Course in Calculus. Lang
+* Calculus. Spivak
+* Calculus in Context. Callahan, Hoffman
+* Calculus with Applications. Lax, Shea
+
+long running:
+
+* calculus. Stewart, clegg, watson
+
+
+### Multivariable Calculus
+
+#### Intro
+
+* Calculus of Several Variables. Serge Lang
+* Functions of Two Variables. Sean Dineen
+
+
+#### Core Track
+
+* Vector Calculus (6th ed). Marsen, Tromba
+* Vector Calculus, Linear Algebra, and Differential Forms - A Unified Approach (5th ed). Hubbard, Hubbard
+* Vector Calculus. Matthews
+* Advanced Calculus - A Geometric View. Callahan
+* An Illustrative Guide to Multivariable and Vector Calculus. Miklavcic
+* Multivariable Calculus with Applications. Lax, Terrell
+* Multivariate Calculus and Geometry (3rd ed). Sean Dineen
+* Calculus and Analysis in the Euclideane Space. Jerry Shurman
+* A Course in Multivariable Calculus and Analysis. Ghorpade, Limaye
+
+##### Mutidomensional Real Analysis
+
+* Multidimensional Real Analysis I - Differentiation. Duistermaat, Kolk
+* Multidimensional Real Analysis II - Integration. Duistermaat, Kolk
+
+##### With CAS
+
+* Multivariable Calculus with MATLAB - With Applications to Geometry and Physics. Lipsman, Rosenberg
+* Multivariable Calculus with Mathematica. Shoushani, Gilbert
+
+#### Advanced Calculus, Math for Physicists 
+
+* Advanced Calculus. Kaplan
+* Advanced Calculus. R Creighton Buck
+* Mathematical Methods for Physics and Engineering. Riley, Hobson, Bence
+* Advanced Calculus. Sternberg
+
+---
+
+## Funcional and Complex Analysis
+
+### Complex Analysis
+
+* A First Course in Complex Analysis with Applications. Zill, Shanahan
+* Complex Analysis. Howie
+* Visual Complex Analysis. Needham
+* Complex Analysis. Gamelin
+* Complex Analysis. Donald Marshall
+* Complex Analysis - A Visual and Interactive Introduction. Juan Carlos Ponce Campuzano
+
+### Functional Analysis
+
+* Functional Analysis - An Introduction to Metric Spaces, Hilbert Spaces, and Banach Algebras. Joseph Muscat
+* Linear Functional Analysis. Youngson
+* Metrics, Norms, Inner Products, and Operator Theory. Christopher Heil
+* Introductory Functional Analysis with Applications. Kreyszig
+* Theoretical Numerical Analysis - A Functional Analysis Framework (3rd ed). Atkinson, Han
+* Introductory Functional Analysis - With Applications to Boundary Value Problems and Finite Elements. Daya Reddy
+
+---
+
+## Differential Equations
+
+
+### Intro
+
+* An Introduction to Ordinary Differential Equations. James C Robinson
+* Differential Equations (4th ed). Blanchard, Devaney, Hall
+* A First Course in Differential Equations - with Modelling Applications. Zill
+* Introduction to Differential Equations (3rd ed). Holmes
+* Differential Equatins and Linear Algebra (4th ed). Edwards, Penney
+* Differential Equations and Linear Algebra. Gilbert Strang
+* Differential Equations and Their Applications. Braun
+* Ordinary Differential Equations. Adkins, Davidsog
+* Ordinary Differential Equations - Applications, Models, and Computing. Charles E Robers Jr
+
+### Theory & Qualitative
+
+* Differential Equations, Dynamical Systems, and an Introduction to Chaos. Hirsch, Smale
+* The Theory of Differential Equations - Classical and Qualitative. Kelley, Peterson
+* Ordinary Differential Equations. Vladimir I Arnold
+* Ordinary Differential Equations with Applications. Chicone
+* Differential Equations and Dynamical Systems (3rd ed). Lawrence Perko
+
+### PDE
+
+* Partial Differential Equations for Scientists and Engineers. Farlow
+* Introduction to Partial Differential Equations. Peter J Olver
+* Applied Partial Differential Equations (3rd ed). David Logan
+* Partial Differential Equations - Analytical Methods and Applications. Henner, Belozerova, Nepomnyaschy
+
+## Dynamical Systems
+
+### Intro
+
+* From Calculus to Chaos. D J Acheson
+* Introduction to Dynamic Systems - Theory, Models, and Applications. David G Luenberger
+
+### Core Track
+
+* Differential Equations, Dynamical Systems, and an Introduction to Chaos (3rd ed). Hirsch, Smale, Devaney
+* Chaos - An Introduction to Dynamical Systems. Alligood, Sauer, Yorke
+* Dynamical Systems - Differential Equations, maps, and Chaotic Behvaiour. Arrowsmith
+* Dynamical Systems with Applications using MATLAB. Stephen Lynch
+* Differential Dynamical Systems. James D Meiss
+
+### Visual
+
+* Dynamics - The Geometry of Behavior (2nd ed). Abraham, Shaw
+
+### Advanced
+
+* Introduction to the Modern Theory of Dynamical Systems. Katok, Hasselblatt
+
+### Nonlinear Dynamics & Chaos
+
+* The Essence of Chaos. Lorenzelli
+* Chaos and Nonlinear Dynamics - An Introduction for Scientists and Engineers (2nd ed). Robert C Hilborn
+* Nonlinear Dynamics and Chaos - With Applications to Physics, Biology, Chemistry, and Engineering. Strogatz
+* Chaos in Dynamical Systems. Ott
+* Introduction to Applied Nonlinear Dynamical Systems and Chaos (2nd ed). Stephen Wiggins
+* Synchronization - A Universal Concept in Nonlinear Science. Pikovsky, Rosenbaum
+
+### Discrete Dynamical Systems
+
+* Introdution to Mathematical Modeling Using Discrete Dynamical Systems. Frederick R Morotto
+* Introduction to Discrete Dynamical Systems and Chaos. Martelli
+* A First Course in Discrete Dynamical Systems. Holmgren
+* Discrete Dynamical Systems. Galor
+* An Introduction to Difference Equations. Elaydi
+
+
+### Analytical Mechanics
+
+* Introduction to Modern Dynamics. Nolte
+* Mechanics. From Newton's Laws to Deterministic Chaos. Florian Scheck
+* Physics for Mathematicians - Mechanics I. Spivak
+* Advanced Dynamics. Donald T Greenwood
+* Analaytical Mechanics. Fasano, Marmi
+* Analytical Mechanics. Hand, Finch
+* Classical Dynamics - A Contemporary Approach. Jose, Saletan
+* Essentials of Hamiltonian Dynamics. Lowenstein
+* Lectures on Classical Mechanics. John C Baez
+* Mathematical Methods of Classical Mechanics (2nd ed). V I Arnold
+* Foundations of Mechanics. Abraham, Marsden
+* Geometric Mechanics on Riemannian Manifolds - Applications to Partial Differential Equations. Ovidiu Calin, Der-Chen Chang
+* Geometric Mechanics - Toward a Unification of Classical Physics. Talman
+* Geometric mechanics and Summetry - From finite to Infinite Dimensions. Darryl Holm, Cristina Stoica
+* Advanced Analytical Dynamics. De Sapio
+
+
+## Differential Geometry & Manifolds, Lie Algebras
+
+### Diffgeo Intro
+
+#### Diffgeo of Curves and Surfaces
+
+* Differential Geometry of Curves and Surfaces. do Carmo
+* Differential Geometry of Curves and Surfaces (2nd ed). Banchoff, Lovett
+* Elementary Differential Geometry. Andrew Pressley
+* Differential Geometry - Curves, Surfaces, Manifolds (2nd ed). Wolfgang Kuehnel
+
+#### Intro
+
+* Visual Differential Geometry and Forms - A Mathematical Drama in Five Acts. Needham
+* Geometry from a Differentiable Viewpoint (2nd ed). John McCleary
+* Manifolds, Vector Fields, and Differential Forms - An Introduction to Differential Geometry. Gross, Meinrenken
+* First Steps in Differential Geometry - Riemannian, Contact, Symplectic. Andrew McInerney
+* Introduction to Differential Geometry. Robbin, Salomon
+* A Visual Introduction to Differential Froms and Calculus on Manifolds. Jon Pierre Fortney
+
+#### Diffgeo of Physics
+
+* Modern Differential Geometry for Physicists (2nd ed). Chris J Isham
+* Applied Differential Geometry. William L Burke
+* Differential Geometry and Lie Groups for Physicists. Fecko
+* Topology, Geometry, and Gauge Fields - Foundations (2nd ed). Gregory L Naber
+* The Geometry of Physics - An Introduction. Theodore Frankel
+
+### Riemannian Geometry
+
+* Riemannian Geometry. do Carmo
+* Riemannian Geometry (3rd ed). Gallot, Hulin, Lafontaine
+
+### Manifolds
+
+* An Introduction to Multivariable Analysis - from Vector to Manifold. Mikusinski, Taylor
+* An Introdution to Manifolds. Spivak
+* An Introduction to Manifolds. Lowing W Tu
+* Differentiable Manifolds (2nd ed). Lawrence Conlon
+* An Introduction to Differential Manifolds. Jacques Lafontaine
+
+#### Advanced
+
+* Introduction to Smooth Manifolds (2nd ed). John M Lee
+* Introduction to Topological Manifolds. John M Lee
+* Analysis on Manifolds. Munkres
+
+
+### Lie Algebras
+
+* Naive Lie Theory. Stillwell
+* Lie Groups and Algebras with Applications to Physics, Geometry, and Mechanics. Sattinger, Weaver
+* Foundations of Differentialbe Manifolds and Lie Groups. Frank W Warner
+* Lie Groups, Physics, and Geometry - An Introduction to Physicists, Engineers and Chemists. Robert Gilmore
+* Lie Groups, Lie Algebras, and Representations - An Elementary Introduction. Brian C Hall
+* Lie Groups, an Approach Through Invariants adn Representations. Claudio Procesi
+* Continious Symmetries, Lie Algebras, Differential Equations, and Computer Algebra. Steeb Willihans
+
+## Numerical Methods
+
+### Intro with Matlab
+
+* Numerical Analysis (3rd ed). Timothy Sauer
+* Elementary Numerical Analysis (3rd ed). Atkinson, Han
+* Scientific Computing with MATLAB and Octave (4th ed). Quarteroni, Gervasio
+* Scientific Computing - An Introduction using MAPlE and MATLAB. Gander, Gander, Kwok
+* Exercises in Computational Mathematics with MATLAB. Lyche, Merrien
+
+### Intro with Python
+
+* Numerical Methods in Engineering with Python 3. Jaan Kiusalaas
+* Einfuehrung in die Numerik. Scheichl & Friess
+* Einfuehrung in die Numerik. Zech
+
+### Older Ref
+
+* Introduction to Applied Numerical Analysis. Hamming
+
+---
+
+## Probability and Statistics
+
+### Probability
+
+#### Core Track
+
+* Probability - An Introduction with Statistical Applications (2nd ed). John J Kinney
+* Introduction to Probability (2nd ed). Blitzstein, Hwang
+* Introduction to Probability. Anderson, Seppalainen, Valko
+* A Course in Probability (10th ed). Sheldon Ross
+* Probability with Applications in Engineering, Science, and Technology (2nd ed). Carlton, Devore
+* Introduction to Probability for Data Science. Stanley H Chan
+* Probability. Jim Pitman
+
+#### Conceptual, Models, Problems
+
+* Understanding Probability. Tijms
+* Introduction to Probability Models (11th ed). Sheldon Ross
+* Probability Models (2nd ed). John Haigh
+
+##### Problem Book Specific 
+
+* Problems and Snapshots from the World of Probability. Blom, Holst, Sandell
+* 40 Puzzles and Problems in Probability and Mathematical Statistics. Schwartz
+* Exercises in Probability. Cacoullos
+* The Pleasures of Probability. Richard Isaac
+
+##### Proabibility of Games Specific
+
+* Games, Gambling, and Probability - An Introduction to Mathematics (2nd ed). David G Taylor
+* The Mathematics of Games and Gambling. Edward W Packel
+
+##### Historical
+
+* Chance and Choice by Cardpack and Chessboard - An Introduction to Probability in Practice by Visual Aids. Lancelot Hogben
+* Statistical Theory - The Relationship of Probability, Credibility and Error. Lancelot Hogben
+
+#### Multivariate Analysis & Lina for Statistics
+
+* Methods of Multivariate Analysis (3rd ed). Rencher, Christensen
+* Linear Algebra and Matrix Analysis for Statistics. Banerjee, Roy
+* Matrix Algebra From a Statistician's Perspective. Harville
+* Matrix Algebra Useful for Statistics (2nd ed). Searle, Khuri
+
+### Statistics
+
+#### Introductory
+
+* Probability and Statistics for Science & Engineering - with Examples in R. Hongshik Ahn
+* Introductory Statistics. Sheldon Ross
+* Discovering Statistics Using R. Field, Miles, Field
+* Modern Elementary Statistics (12th ed). Freund, Perles
+
+
+#### Core Track
+
+* Probability and Statistics with R for Engineers and Scientists. Akritas
+* Introduction to Probability and Statistics for Engineers and Scientists (6th ed). Sheldon M Ross
+* Probability and Statistics - for Engineering and the Sciences (9th ed). Devore
+* Probability and Statistics (4th ed). DeGroot, Schervish
+* Statistics (4th ed). Freedman, Pisani, Purves
+
+#### Mathmetical Statistics
+
+* An Introduction to Mathematical Statistics and Its Applications (5th ed). Larsen, Marx
+* Modern Mathematical Statistics with Applications (3rd ed). Devore, Berk, Carlton
+* Mathematical Statistics and Data Analysis. Rice
+* Introduction to Mathematical Statistics. Hogg, McKean, Craig
+
+
+#### Data Science
+
+* Modern Data Science with R (2nd ed). Baumer, Kaplan, Horton
+* Modern Statistics with R - From Wrangling and Exploring Data to Inference and Predictive Modelling (2nd ed). Thulin
+* The Data Science Design Manual. Steven S Skiena
+* A Tour of Data Science - Learn Pytnon and R in Parallel. Zhang
+* Data Science Using Python and R. Larose
+* Intro to Python for Computer Science and Data Science. Deitel, Deitel
+* R for Data Science - Import, Tidy, Transform, Visualize and Model Data. Wickham, Cetinkaya-Rundel, Grolemund
+* Practical Data Science with R. Zumel, Mount
+
+
+#### Older Books 
+
+* Statistics for Technology - A Course in Applied Statistics (1978). Chatfield
+* Statistics for biologists. Finney
+* The Computation of Style. Kenny
+* Elementary Statistical Methods. Wetherill
