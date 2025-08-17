@@ -835,7 +835,7 @@ long running:
 * Differential Geometry and Lie Groups for Physicists. Fecko
 * Topology, Geometry, and Gauge Fields - Foundations (2nd ed). Gregory L Naber
 * The Geometry of Physics - An Introduction. Theodore Frankel
-
+-
 ### Riemannian Geometry
 
 * Riemannian Geometry. do Carmo
@@ -961,7 +961,7 @@ long running:
 #### Data Science
 
 * Modern Data Science with R (2nd ed). Baumer, Kaplan, Horton
-* Modern Statistics with R - From Wrangling and Exploring Data to Inference and Predictive Modelling (2nd ed). Thulin
+* Modern Statisticsg with R - From Wrangling and Exploring Data to Inference and Predictive Modelling (2nd ed). Thulin
 * The Data Science Design Manual. Steven S Skiena
 * A Tour of Data Science - Learn Pytnon and R in Parallel. Zhang
 * Data Science Using Python and R. Larose
